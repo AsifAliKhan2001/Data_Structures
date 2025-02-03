@@ -1,4 +1,4 @@
-CleverSIDC - Adaptive Student Tracking System
+CleverSIDC - Adaptive Student Tracking System 
 This project was completed as part of my COMP 352 (Data Structures & Algorithms) assignment in Winter 2024. The goal was to design an adaptive student tracking system that efficiently manages student records using dynamic data structures based on dataset size.
 
 Overview
